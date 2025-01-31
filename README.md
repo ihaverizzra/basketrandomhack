@@ -1,0 +1,7 @@
+A simple mirrior hack for basket random
+
+Only works for the arrow key.
+
+The problem is single player for basket random is sometimes it is too easy, people who look for a challenge just paste the script in the console.
+
+and it mirrior everymove you take on your arrow key.
